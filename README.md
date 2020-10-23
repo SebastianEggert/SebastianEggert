@@ -1,23 +1,12 @@
 # Hi, I am Sebastian 👋
 
-I am a mechanical engineer who is passionate about developing Open Source Hardware for research in the field of cell culture and tissue engineering.
+I am a mechanical engineer who is passionate about developing Open Source Hardware for scientists in the field of cell culture and tissue engineering.
 
 ## Find me around the web :earth_americas:
 
 - Sharing updates and cool videos on [Twitter](https://twitter.com/se_eggert)
-- Working on new [research applications](https://www.mw.tum.de/mmi/team/staff-list/sebastian-eggert/)
-- 
+- Tinkering in new [research projects](https://www.mw.tum.de/mmi/team/staff-list/sebastian-eggert/)
+- Empowering scientists to develop [their own technology](https://github.com/SebastianEggert/OpenWorkstation)
 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Curious about my research? Please reach out to me and ask me anything.
