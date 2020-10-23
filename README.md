@@ -4,9 +4,11 @@ I am a mechanical engineer who is passionate about developing Open Source Hardwa
 
 ## Find me around the web :earth_americas:
 
+- Sharing updates and cool videos on [Twitter](https://twitter.com/se_eggert)
+- Working on new [research applications](https://www.mw.tum.de/mmi/team/staff-list/sebastian-eggert/)
+- 
 
-<!--
-**SebastianEggert/SebastianEggert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
