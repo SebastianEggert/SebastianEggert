@@ -1,5 +1,8 @@
 # Hi, I am Sebastian 👋
 
+I am a mechanical engineer who is passionate about developing Open Source Hardware for research in the field of cell culture and tissue engineering.
+
+
 <!--
 **SebastianEggert/SebastianEggert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
